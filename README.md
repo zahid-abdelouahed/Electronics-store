@@ -109,9 +109,6 @@ Through this project, I developed strong skills in:
 ---
 
 ## 👩‍💻 Author
-**Malak Rai**  
-Engineering student – IA2R, Polytech Nancy  
-Interested in AI, Cybersecurity, and Secure Systems.
-
-📌 LinkedIn: https://www.linkedin.com/in/malak-rai-b60682290/
-📌 GitHub: https://github.com/Malakrai
+**Zahid abdelouahed**  
+Engineering student – SIR, Polytech Nancy  
+Interested in AI, ML and DL.
